@@ -34,7 +34,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-stylus": "^2.7.0",
     "gulp-util": "^3.0.8",
-    "hexo": "^3.7.1",
+    "hexo": "^6.3.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
