@@ -43,7 +43,7 @@
     "hexo-util": "^3.0.1",
     "html-minifier": "^3.5.15",
     "http-server": "^14.1.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.10",
     "nodemon": "^2.0.20",
     "npm-run-all": "^4.1.3",
